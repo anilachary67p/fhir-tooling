@@ -1,9 +1,9 @@
 client_id = 'admin-cli'
 client_secret = ''
 username = 'admin'
-password = 'kWrniRaO5px8LP'
-access_token_url = 'https://staging.arogyam-midas.iisc.ac.in/auth/realms/master/protocol/openid-connect/token'
-fhir_base_url = 'https://staging.arogyam-midas.iisc.ac.in/fhir'
-keycloak_url = 'https://staging.arogyam-midas.iisc.ac.in/auth/admin/realms/arogyam'
+password = 'Adroit@098'
+access_token_url = 'https://site-1-prod.octf.artpark.ai/auth/realms/master/protocol/openid-connect/token'
+fhir_base_url = 'https://site-1-prod.octf.artpark.ai/fhir'
+keycloak_url = 'https://site-1-prod.octf.artpark.ai/auth/admin/realms/arogyam'
 access_token = None
 product_access_token = 'example-pr̀̀oduct-access-token'

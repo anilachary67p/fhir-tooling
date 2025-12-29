@@ -1,10 +1,9 @@
 firstName,lastName,username,email,userId,userType,enableUser,keycloakGroupId,keycloakGroupName,appId,password
-Super,Admin,superadmin,superadmin@arogyam-midas.iisc.ac.in,arogyam-superadmin,Supervisor,true,a67009ad-e1e4-4a43-84ce-038406906d3b,Supervisor,app,password
-Site,Admin,siteadmin,siteadmin@arogyam-midas.iisc.ac.in,siteadmin,Site Admin,true,442dd9e9-6918-4be0-9281-b692f7ccbb1e,Site Admin,app,password
-Site,Coordinator,sitecoordinator1,sitecoordinator1@arogyam-midas.iisc.ac.in,sitecoordinator1,Site Coordinator,true,fe3373da-3e72-47d3-915b-adad91a8596c,Site Coordinator,app,password
-FLW,User,flw1,flw1@arogyam-midas.iisc.ac.in,flw1,Front Line Worker,true,b4c2b016-5c5b-441f-9f28-f6a376407dea,Front Line Worker,app,password
-FLW,User,flw2,flw2@arogyam-midas.iisc.ac.in,flw2,Front Line Worker,true,b4c2b016-5c5b-441f-9f28-f6a376407dea,Front Line Worker,app,password
-Specialist,User,specialist1,sp1@arogyam-midas.iisc.ac.in,sp1,Specialist,true,028c9893-6b47-4cf2-bfd3-ed379967abca,Specialist,app,password
-Specialist,User,specialist2,sp2@arogyam-midas.iisc.ac.in,sp2,Specialist,true,028c9893-6b47-4cf2-bfd3-ed379967abca,Specialist,app,password
-SeniorSpecialist,User,sspecialist1,ssp1@arogyam-midas.iisc.ac.in,ssp1,Senior Specialist,true,b97005be-3422-4125-a558-0f5929659a2f,Senior Specialist,app,password
-SeniorSpecialist,User,sspecialist2,ssp2@arogyam-midas.iisc.ac.in,ssp2,Senior Specialist,true,b97005be-3422-4125-a558-0f5929659a2f,Senior Specialist,app,password
+Site,Admin,siteadmin,siteadmin@arogyam-midas.iisc.ac.in,siteadmin,Site Admin,TRUE,98e40c3f-a6f8-4f61-8cd7-85088779bc39,Site Admin,app,password
+Site,Coordinator,sitecoordinator1,sitecoordinator1@arogyam-midas.iisc.ac.in,sitecoordinator1,Site Coordinator,TRUE,228f45b8-4450-48cd-aecc-d36a6215ab7d,Site Coordinator,app,password
+FLW,User,flw1,flw1@arogyam-midas.iisc.ac.in,flw1,Front Line Worker,TRUE,cb45f509-dcf6-4c5b-9583-96d42031ec6d,Front Line Worker,app,password
+FLW,User,flw2,flw2@arogyam-midas.iisc.ac.in,flw2,Front Line Worker,TRUE,cb45f509-dcf6-4c5b-9583-96d42031ec6d,Front Line Worker,app,password
+Specialist,User,specialist1,sp1@arogyam-midas.iisc.ac.in,sp1,Specialist,TRUE,b8516ddf-b6e8-4e4e-b71e-eb04ed9ef2d1,Specialist,app,password
+Specialist,User,specialist2,sp2@arogyam-midas.iisc.ac.in,sp2,Specialist,TRUE,b8516ddf-b6e8-4e4e-b71e-eb04ed9ef2d1,Specialist,app,password
+SeniorSpecialist,User,sspecialist1,ssp1@arogyam-midas.iisc.ac.in,ssp1,Senior Specialist,TRUE,bbf06e32-2682-4351-b047-df975c0d3ad4,Senior Specialist,app,password
+SeniorSpecialist,User,sspecialist2,ssp2@arogyam-midas.iisc.ac.in,ssp2,Senior Specialist,TRUE,bbf06e32-2682-4351-b047-df975c0d3ad4,Senior Specialist,app,password
