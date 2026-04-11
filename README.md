@@ -10,3 +10,11 @@ A repo to hold our FHIR content and configuration creation tools and scripts.
 ## License
 
 All code is made source available under the terms in the file LICENSE.
+
+
+
+python3 main.py --csv_file csv/users.csv --resource_type users --log_level info
+
+
+
+

@@ -1,11 +1,10 @@
 {
-    "json.schemas": [
-        {
-            "fileMatch": [
-                "*.fhir.json"
-            ],
-            "url": "./fhir.schema.json"
-        }
-    ],
-    "java.compile.nullAnalysis.mode": "disabled"
-  }
+  "json.schemas": [
+    {
+      "fileMatch": ["*.fhir.json"],
+      "url": "./fhir.schema.json"
+    }
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
