@@ -1,7 +1,7 @@
 client_id = 'admin-cli'
 client_secret = ''
 username = 'admin'
-password = 'CHANGE_ME'
+password = 'Keyclock@2026'
 access_token_url = 'https://wb.aarogya-aarohan.tanuh.ai/auth/realms/master/protocol/openid-connect/token'
 fhir_base_url = 'https://wb.aarogya-aarohan.tanuh.ai/fhir'
 keycloak_url = 'https://wb.aarogya-aarohan.tanuh.ai/auth/admin/realms/arogyam'
