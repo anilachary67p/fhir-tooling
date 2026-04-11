@@ -1,0 +1,17 @@
+{
+  "resourceType": "Binary",
+  "id": "344c386e-e715-4137-addf-651bf546e31f",
+  "meta": {
+    "versionId": "7",
+    "lastUpdated": "2025-01-03T04:12:34.144+00:00",
+    "source": "#daee3d3cc490fb0b"
+  },
+  "contentType": "text/plain",
+  "data": "ewogICJhcHBJZCI6ICJhcHAiLAogICJjb25maWdUeXBlIjogImFwcGxpY2F0aW9uIiwKICAidGhlbWUiOiAiREVGQVVMVCIsCiAgImFwcFRpdGxlIjogIlF1ZXN0IiwKICAicmVnaXN0ZXJEYXRlIjogIjIwMjAtMTAtMjciLAogICJyZXBvcnRSZXBlYXRUaW1lIjogIjIzOjIyIiwKICAicmVtb3RlU3luY1BhZ2VTaXplIjogMTAwMCwKICAibGFuZ3VhZ2VzIjogWwogICAgImVuIgogIF0sCiAgInVzZURhcmtUaGVtZSI6IGZhbHNlLAogICJzeW5jSW50ZXJ2YWwiOiAzMCwKICAic3luY1N0cmF0ZWd5IjogWwogICAgIkxvY2F0aW9uIiwKICAgICJPcmdhbml6YXRpb24iLAogICAgIkNhcmVUZWFtIiwKICAgICJQcmFjdGl0aW9uZXIiCiAgXSwKICAibG9naW5Db25maWciOiB7CiAgICAic2hvd0xvZ28iOiB0cnVlLAogICAgImVuYWJsZVBpbiI6IHRydWUKICB9LAogICJkZXZpY2VUb0RldmljZVN5bmMiOiB7CiAgICAicmVzb3VyY2VzVG9TeW5jIjogWwogICAgICAiR3JvdXAiLAogICAgICAiUGF0aWVudCIsCiAgICAgICJDYXJlUGxhbiIsCiAgICAgICJUYXNrIiwKICAgICAgIkVuY291bnRlciIsCiAgICAgICJPYnNlcnZhdGlvbiIsCiAgICAgICJDb25kaXRpb24iLAogICAgICAiUXVlc3Rpb25uYWlyZSIsCiAgICAgICJRdWVzdGlvbm5haXJlUmVzcG9uc2UiLAogICAgICAiUmVsYXRlZFBlcnNvbiIsCiAgICAgICJMaXN0IiwKICAgICAgIkZsYWciCiAgICBdCiAgfSwKICAibG9nR3BzTG9jYXRpb24iOiBbCiAgICAiUVVFU1RJT05OQUlSRSIKICBdCn0=",
+  "_data": {
+    "extension": [ {
+      "url": "http://hapifhir.io/fhir/StructureDefinition/externalized-binary-id",
+      "valueString": "XLcmGv4X7vnVCASZIG65s5AKlbRktcSCKQ8Bi6yfsGOdeuiD8FrYKmXTYiXJGRk5eb5Sq6LMxVBYdotAZ1yedFJRIKrJnhF7AL7V"
+    } ]
+  }
+}

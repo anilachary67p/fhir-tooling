@@ -1,0 +1,19 @@
+{
+  "resourceType": "Practitioner",
+  "id": "96e0e6fa-80db-4c21-b2d6-d8fcdb11cd07",
+  "active": true,
+  "identifier": [
+    {
+      "system": "urn:custom",
+      "value": "96e0e6fa-80db-4c21-b2d6-d8fcdb11cd07"
+    }
+  ],
+  "name": [
+    {
+      "use": "official",
+      "family": "User",
+      "given": ["Custom"]
+    }
+  ]
+}
+

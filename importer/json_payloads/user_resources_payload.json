@@ -34,7 +34,8 @@
                 "use": "official",
                 "family": "$lastName",
                 "given": [
-                    "$firstName"
+                    "$firstName",
+                    ""
                 ]
                 }
             ],

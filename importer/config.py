@@ -1,9 +1,9 @@
 client_id = 'admin-cli'
 client_secret = ''
 username = 'admin'
-password = 'Adroit@098'
-access_token_url = 'https://site-1-prod.octf.artpark.ai/auth/realms/master/protocol/openid-connect/token'
-fhir_base_url = 'https://site-1-prod.octf.artpark.ai/fhir'
-keycloak_url = 'https://site-1-prod.octf.artpark.ai/auth/admin/realms/arogyam'
+password = 'CHANGE_ME'
+access_token_url = 'https://stg.aarogya-aarohan.tanuh.ai/auth/realms/master/protocol/openid-connect/token'
+fhir_base_url = 'https://stg.aarogya-aarohan.tanuh.ai/fhir'
+keycloak_url = 'https://stg.aarogya-aarohan.tanuh.ai/auth/admin/realms/arogyam'
 access_token = None
 product_access_token = 'example-pr̀̀oduct-access-token'

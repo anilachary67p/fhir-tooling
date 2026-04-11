@@ -1,0 +1,325 @@
+{
+  "resourceType": "Bundle",
+  "id": "14f72ebd-0293-456d-ae67-9355b825abec",
+  "type": "transaction-response",
+  "link": [ {
+    "relation": "self",
+    "url": "https://site-1-prod.octf.artpark.ai/fhir"
+  } ],
+  "entry": [ {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/344c386e-e715-4137-addf-651bf546e31f/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/344c386e-e715-4137-addf-651bf546e31f/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/7f8b25f9-f326-43d3-b0c7-3310e4db919d/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/7f8b25f9-f326-43d3-b0c7-3310e4db919d/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/a803a474-07c9-4bca-b13a-790e71e94966/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/a803a474-07c9-4bca-b13a-790e71e94966/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/b068999a-7eb0-4bcc-9f0e-8abf67f24300/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/b068999a-7eb0-4bcc-9f0e-8abf67f24300/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/8ea05091-e3e6-4f63-bbe0-649053610055/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/8ea05091-e3e6-4f63-bbe0-649053610055/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/d55ace8f-1669-4c02-9acd-9b21f4cfa4cc/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/d55ace8f-1669-4c02-9acd-9b21f4cfa4cc/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/15441649-a7a6-49ad-a534-6606ce9dc0b7/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/15441649-a7a6-49ad-a534-6606ce9dc0b7/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/e5617196-e82a-4577-a59f-798bdf37f74d/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/e5617196-e82a-4577-a59f-798bdf37f74d/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/c6dfc541-967a-42d5-8dd3-68ba1d52ae7f/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/c6dfc541-967a-42d5-8dd3-68ba1d52ae7f/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/203873fb-7815-4be8-9925-143850dea4af/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/203873fb-7815-4be8-9925-143850dea4af/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/dbf4168d-4cac-4509-8eba-0dc6c628bfb8/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/dbf4168d-4cac-4509-8eba-0dc6c628bfb8/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/0564a713-3fea-4f50-845e-091b7f0cb47c/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/0564a713-3fea-4f50-845e-091b7f0cb47c/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/597ebe5e-173d-42c7-a943-6ce7a22fd1ec/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/597ebe5e-173d-42c7-a943-6ce7a22fd1ec/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Binary/cd78b9d5-0419-4fae-af1e-860edcbf79eb/_history/2",
+      "etag": "2",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE",
+              "display": "Update succeeded."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Binary/cd78b9d5-0419-4fae-af1e-860edcbf79eb/_history/2\"."
+        } ]
+      }
+    }
+  }, {
+    "response": {
+      "status": "200 OK",
+      "location": "Composition/89dac51a-fe28-4eed-a5b8-fcddef8d01a9/_history/1",
+      "etag": "1",
+      "outcome": {
+        "resourceType": "OperationOutcome",
+        "issue": [ {
+          "severity": "information",
+          "code": "informational",
+          "details": {
+            "coding": [ {
+              "system": "https://hapifhir.io/fhir/CodeSystem/hapi-fhir-storage-response-code",
+              "code": "SUCCESSFUL_UPDATE_NO_CHANGE",
+              "display": "Update succeeded: No changes were detected so no action was taken."
+            } ]
+          },
+          "diagnostics": "Successfully updated resource \"Composition/89dac51a-fe28-4eed-a5b8-fcddef8d01a9/_history/1\" with no changes detected."
+        } ]
+      }
+    }
+  } ]
+}200

@@ -1,7 +1,5 @@
-CLIENT_ID=
-CLIENT_SECRET=
-USERNAME=
-PASSWORD=
-ACCESS_TOKEN_URL=
-RESOURCE_FOLDER=
-SERVER_URL=
+CLIENT_ID="api-client"
+CLIENT_SECRET="MUYIP7103G1bdF2d83bgQ1SxCdo7Qifg"
+ACCESS_TOKEN_URL="https://stg.arogyam.artpark.ai/auth/realms/arogyam/protocol/openid-connect/token"
+RESOURCE_FOLDER="../resources"
+SERVER_URL="https://stg.arogyam.artpark.ai/fhir"

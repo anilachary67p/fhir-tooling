@@ -1,0 +1,208 @@
+{
+  "resourceType": "Bundle",
+  "id": "45a7638c-3235-47b0-94ab-7c072a61f1f6",
+  "meta": {
+    "lastUpdated": "2026-01-03T11:51:29.103+00:00"
+  },
+  "type": "searchset",
+  "total": 1,
+  "link": [ {
+    "relation": "self",
+    "url": "https://site-1-production.arogyam-midas.iisc.ac.in/fhir/Composition?identifier=app"
+  } ],
+  "entry": [ {
+    "fullUrl": "https://site-1-production.arogyam-midas.iisc.ac.in/fhir/Composition/89dac51a-fe28-4eed-a5b8-fcddef8d01a9",
+    "resource": {
+      "resourceType": "Composition",
+      "id": "89dac51a-fe28-4eed-a5b8-fcddef8d01a9",
+      "meta": {
+        "versionId": "1",
+        "lastUpdated": "2024-07-22T07:09:58.393+00:00",
+        "source": "#d502c4b6003b9bca"
+      },
+      "identifier": {
+        "use": "official",
+        "value": "app"
+      },
+      "status": "final",
+      "type": {
+        "coding": [ {
+          "system": "http://snomed.info/sct",
+          "code": "1156600005",
+          "display": "Device setting parameter"
+        } ]
+      },
+      "date": "2022-09-16",
+      "author": [ {
+        "reference": "Practitioner/arogyam-superadmin"
+      } ],
+      "title": "Device configurations",
+      "confidentiality": "L",
+      "section": [ {
+        "title": "Application configuration",
+        "author": [ {
+          "reference": "Practitioner/arogyam-superadmin"
+        } ],
+        "focus": {
+          "reference": "Binary/344c386e-e715-4137-addf-651bf546e31f",
+          "identifier": {
+            "value": "application"
+          }
+        },
+        "mode": "working"
+      }, {
+        "title": "Sync configuration",
+        "author": [ {
+          "reference": "Practitioner/arogyam-superadmin"
+        } ],
+        "focus": {
+          "reference": "Binary/7f8b25f9-f326-43d3-b0c7-3310e4db919d",
+          "identifier": {
+            "value": "sync"
+          }
+        },
+        "mode": "working"
+      }, {
+        "title": "Navigation configuration",
+        "author": [ {
+          "reference": "Practitioner/arogyam-superadmin"
+        } ],
+        "focus": {
+          "reference": "Binary/a803a474-07c9-4bca-b13a-790e71e94966",
+          "identifier": {
+            "value": "navigation"
+          }
+        },
+        "mode": "working"
+      }, {
+        "title": "Register configurations",
+        "mode": "working",
+        "section": [ {
+          "title": "Household register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/b068999a-7eb0-4bcc-9f0e-8abf67f24300",
+            "identifier": {
+              "value": "householdRegister"
+            }
+          }
+        }, {
+          "title": "ANC register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/8ea05091-e3e6-4f63-bbe0-649053610055",
+            "identifier": {
+              "value": "ancRegister"
+            }
+          }
+        }, {
+          "title": "Child register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/d55ace8f-1669-4c02-9acd-9b21f4cfa4cc",
+            "identifier": {
+              "value": "childRegister"
+            }
+          }
+        }, {
+          "title": "Task register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/15441649-a7a6-49ad-a534-6606ce9dc0b7",
+            "identifier": {
+              "value": "taskRegister"
+            }
+          }
+        }, {
+          "title": "CMNTD register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/e5617196-e82a-4577-a59f-798bdf37f74d",
+            "identifier": {
+              "value": "cmntdRegister"
+            }
+          }
+        }, {
+          "title": "FP register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/c6dfc541-967a-42d5-8dd3-68ba1d52ae7f",
+            "identifier": {
+              "value": "fpRegister"
+            }
+          }
+        }, {
+          "title": "HIV register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/203873fb-7815-4be8-9925-143850dea4af",
+            "identifier": {
+              "value": "hivRegister"
+            }
+          }
+        }, {
+          "title": "Mental Health register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/dbf4168d-4cac-4509-8eba-0dc6c628bfb8",
+            "identifier": {
+              "value": "mentalHealthRegister"
+            }
+          }
+        }, {
+          "title": "PNC register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/0564a713-3fea-4f50-845e-091b7f0cb47c",
+            "identifier": {
+              "value": "pncRegister"
+            }
+          }
+        }, {
+          "title": "Sick Child register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/597ebe5e-173d-42c7-a943-6ce7a22fd1ec",
+            "identifier": {
+              "value": "sickChildRegister"
+            }
+          }
+        }, {
+          "title": "TB register configuration",
+          "author": [ {
+            "reference": "Practitioner/arogyam-superadmin"
+          } ],
+          "focus": {
+            "reference": "Binary/cd78b9d5-0419-4fae-af1e-860edcbf79eb",
+            "identifier": {
+              "value": "tbRegister"
+            }
+          }
+        } ]
+      } ]
+    },
+    "search": {
+      "mode": "match"
+    }
+  } ]
+}
